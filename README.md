@@ -6,4 +6,4 @@
 
 ## 2.1 [QEMU](/2.1-QEMU.md)
 
-## 2.2 [Hardware](/2.2-Hardwawre.md)
+## 2.2 [Hardware](/2.2-Hardware.md)
