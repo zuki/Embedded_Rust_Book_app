@@ -9,9 +9,11 @@ version = "0.1.0"
 cortex-m = "0.6.0"
 cortex-m-rt = "0.6.10"
 cortex-m-semihosting = "0.3.3"
-panic-halt = "0.2.0"
 
-# Uncomment for the panic example.
+# Uncomment one for the panic example.
+# panic-abort = "0.3.2"
+panic-halt = "0.2.0"
+# panic-semihosting = { version="0.5.3", features = ["exit"] }
 # panic-itm = "0.4.1"
 
 # Uncomment for the allocator example.
